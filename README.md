@@ -1,6 +1,6 @@
 # ¡Hola! Soy Gabriela Oyarzo Escudero 👋 
 
-### Oceanógrafa | Analista de Datos | Estudiante de Magíster en Simulación Computacional 
+### Oceanógrafa (PUCV) | Analista de Datos | Estudiante de Magíster en Simulación Computacional (PUCV)
 
 **Viña del Mar, Chile** 
 
