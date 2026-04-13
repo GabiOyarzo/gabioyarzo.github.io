@@ -1,4 +1,4 @@
-# ¡Hola! [cite_start] Soy Gabriela Oyarzo Escudero 👋 
+# ¡Hola! Soy Gabriela Oyarzo Escudero 👋 
 
 ### Oceanógrafa | Analista de Datos | [cite_start]Estudiante de Magíster en Simulación Computacional [cite: 467, 468]
 
