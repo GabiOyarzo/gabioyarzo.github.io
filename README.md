@@ -31,7 +31,7 @@ Me dedico al **Análisis de Datos** y la **Consultoría en Gestión**. Mi objeti
 
 ---
 
-## [cite_start]📫 ¡Conectemos! 
+## 📫 ¡Conectemos! 
 
 Si buscas a alguien con capacidad de simulación, rigor científico y una perspectiva analítica para tus proyectos, no dudes en contactarme:
 
