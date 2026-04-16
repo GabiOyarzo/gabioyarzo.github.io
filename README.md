@@ -29,7 +29,7 @@ Disfruto construyendo soluciones eficientes, lógicas y visualmente estructurada
 <img src="imagen_anidado.png" alt="Modelo Anidado CROCO Patagonia" style="width:100%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 <p align="center">
-  <sub><i>Visualización del Modelo Anidado: Incremento de resolución desde la grilla oceánica hasta 1km.</i></sub
+  <sub><i>Visualización del Modelo Anidado: Incremento de resolución desde la grilla oceánica hasta 1km.</i></sub>
 </p>
 
 
