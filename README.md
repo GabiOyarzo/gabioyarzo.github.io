@@ -34,6 +34,7 @@ Disfruto construyendo soluciones eficientes, lógicas y visualmente estructurada
 
 
 
+
 ## 🔗 Conectemos
 * **LinkedIn:** [gabioyarzoe](https://www.linkedin.com/in/gabioyarzoe)
 * **Email:** gabioyarzoe@gmail.com
