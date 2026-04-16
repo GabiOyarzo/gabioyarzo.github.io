@@ -1,5 +1,5 @@
 # ¡Hola! Soy Gabriela Oyarzo Escudero 👋 | Gabi <3
-<img src="perfil.png" alt="Gabriela Oyarzo Escudero" width="150" style="border-radius: 50%;">
+
 ![Gabriela Oyarzo Escudero](perfil.png)
 
 ### 📊 Analista de Datos | Consultora en Gestión y Logística
