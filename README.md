@@ -15,19 +15,23 @@ Disfruto construyendo soluciones eficientes, lógicas y visualmente estructurada
 * **Programación:** Matlab, Python.
 * **Documentación y Control de Versiones:** Office, Git, GitHub.
 
-# 🚀 Proyectos🌊 
+# 🚀 Proyectos
 
-Tesis: : Respuesta hidrodinámica a la variabilidad sinóptica del viento a lo largo de la costa en la Patagonia Norte y su efecto en el mar interior de Chiloé.
-Recursos: 
-- Simulación de Grillas Anidadas (CROCO)
-Figura: Grilla doble anidado para simulación CROCO en Patagonia Norte. Este trabajo de tesis de pregrado utiliza el modelo CROCO para realizar simulaciones oceanográficas, empleando una estructura de grillas anidadas (Padre, Hijo y Nieto) que permite aumentar la resolución espacial en zonas críticas de la Patagonia Chilena.
+### 🌊 Tesis de Pregrado
+**Título:** Respuesta hidrodinámica a la variabilidad sinóptica del viento a lo largo de la costa en la Patagonia Norte y su efecto en el mar interior de Chiloé.
 
-<table border="0"><tr>
-  <td align="center">
-  <img src="imagen_anidado.png" alt="Grilla Padre" width="250">
-  <sub> Modelo Anidado </sub>
-  </td>
-</table>
+#### 🛠️ Recursos y Metodología:
+* **Simulación de Grillas Anidadas (CROCO):** Utilización del modelo oceanográfico CROCO para realizar simulaciones de alta resolución.
+* **Estructura de Grillas:** Implementación de una configuración de grillas anidadas (Padre, Hijo y Nieto), permitiendo optimizar la resolución espacial en zonas críticas de la Patagonia Chilena.
+
+**Figura: Grilla doble anidado para simulación CROCO en Patagonia Norte**
+
+<img src="imagen_anidado.png" alt="Modelo Anidado CROCO Patagonia" style="width:100%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+<p align="center">
+  <sub><i>Visualización del Modelo Anidado: Incremento de resolución desde la grilla oceánica hasta 1km.</i></sub
+</p>
+
 
 
 ## 🔗 Conectemos
