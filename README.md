@@ -22,9 +22,19 @@ Recursos:
 - Simulación de Grillas Anidadas (CROCO)
 Figura: Grilla doble anidado para simulación CROCO en Patagonia Norte. Este trabajo de tesis de pregrado utiliza el modelo CROCO para realizar simulaciones oceanográficas, empleando una estructura de grillas anidadas (Padre, Hijo y Nieto) que permite aumentar la resolución espacial en zonas críticas de la Patagonia Chilena.
 
-<table border="0"><tr><td align="center"><img src="grd_Patagonia_padre.tif" alt="Grilla Padre" width="250"><sub>Grilla Padre</sub>
-</td><td align="center"><img src="grd_Patagonia_hijo.tif" alt="Grilla Hijo" width="250"><sub>Grilla Hijo</sub></td><td align="center">
-  <img src="grd_Patagonia_nieto.tif" alt="Grilla Nieto" width="250"><sub>Grilla Nieto</sub></td></tr></table>
+<table border="0"><tr>
+  <td align="center">
+  <img src="grd_Patagonia_padre.tif" alt="Grilla Padre" width="250">
+  <sub>Grilla Padre</sub>
+  </td><td align="center">
+    <img src="grd_Patagonia_hijo.tif" alt="Grilla Hijo" width="250">
+    <sub>Grilla Hijo</sub>
+  </td>
+  <td align="center">
+  <img src="grd_Patagonia_nieto.tif" alt="Grilla Nieto" width="250">
+    <sub>Grilla Nieto</sub>
+  </td></tr>
+</table>
 
 
 ## 🔗 Conectemos
