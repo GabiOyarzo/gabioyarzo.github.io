@@ -1,6 +1,6 @@
 # ¡Hola! Soy Gabriela Oyarzo Escudero 👋 | Gabi <3
 
-![Gabriela Oyarzo Escudero](perfil.png)
+![Gabriela Oyarzo Escudero](avatar.png)
 
 ### 📊 Analista de Datos | Consultora en Gestión y Logística
 📍 Viña del Mar, Chile
