@@ -1,5 +1,3 @@
-<img src="avatar.png" align="left" width="80" style="border-radius: 50%; margin-right: 20px;">
-
 # ¡Hola! Soy Gabriela Oyarzo Escudero 👋 | Gaby
 
 
