@@ -1,7 +1,16 @@
-# ¡Hola! Soy Gabriela Oyarzo Escudero 👋 | Gabi <3
+<table>
+  <tr>
+    <td>
+      <img src="avatar.png" alt="Gabi" width="60" style="border-radius: 50%;">
+    </td>
+    <td>
+      <h1>¡Hola! Soy Gabriela Oyarzo Escudero 👋 | Gaby</h1>
+    </td>
+  </tr>
+</table>
 
-![Gabriela Oyarzo Escudero](avatar.png)
-
+### 📊 Analista de Datos | Consultora en Gestión y Logística
+📍 Viña del Mar, Chile
 ### 📊 Analista de Datos | Consultora en Gestión y Logística
 📍 Viña del Mar, Chile
 
