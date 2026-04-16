@@ -1,4 +1,4 @@
-# ¡Hola! Soy Gabriela Oyarzo Escudero 👋 | Gaby
+# ¡Hola! Soy Gabriela Oyarzo Escudero 👋 | Gabi
 
 
 ### 📊 Analista de Datos | Consultora en Gestión y Logística
