@@ -24,16 +24,9 @@ Figura: Grilla doble anidado para simulación CROCO en Patagonia Norte. Este tra
 
 <table border="0"><tr>
   <td align="center">
-  <img src="grd_Patagonia_padre.tif" alt="Grilla Padre" width="250">
-  <sub>Grilla Padre</sub>
-  </td><td align="center">
-    <img src="grd_Patagonia_hijo.tif" alt="Grilla Hijo" width="250">
-    <sub>Grilla Hijo</sub>
+  <img src="imagen_anidado.png" alt="Grilla Padre" width="250">
+  <sub> Modelo Anidado </sub>
   </td>
-  <td align="center">
-  <img src="grd_Patagonia_nieto.tif" alt="Grilla Nieto" width="250">
-    <sub>Grilla Nieto</sub>
-  </td></tr>
 </table>
 
 
